@@ -4,16 +4,16 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "开源项目"
-subtitle = ""
+title = "文档翻译"
+subtitle = "官方文档中文版"
 
 # Order that this section will appear in.
-weight = 50
+weight = 63
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "translation"
 
 # View.
 # Customize how projects are displayed.
@@ -33,16 +33,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "微服务"
-  tag = ".micro-service"
-
-[[filter]]
   name = "服务网格"
   tag = ".service-mesh"
 
 [[filter]]
-  name = "基础类库"
-  tag = ".foundation"
+  name = "Java"
+  tag = ".java"
 
 +++
 

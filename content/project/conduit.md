@@ -1,22 +1,22 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2018-01-19"
 
 # Project title.
-title = "External Project"
+title = "Conduit"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "新一代`超轻量级`Service Mesh."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "projects/conduit.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["service-mesh", "micro-service"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://conduit.io/"
 
 # Does the project detail page use math formatting?
 math = false

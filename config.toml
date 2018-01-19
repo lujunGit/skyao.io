@@ -273,9 +273,14 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+  name = "文档翻译"
+  url = "#translations"
+  weight = 6
+
+[[menu.main]]
   name = "和我联系"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
