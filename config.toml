@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Sky Ao"
+title = "敖小剑的博客"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,11 +51,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Sky Ao/敖小剑"
-  role = "资深架构师"
+  role = "资深码农"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "数人云", url = "https://www.shurenyun.com/" } ]
+  organizations = [ { name = "DreamFly.IO", url = "http://dreamfly.io/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -229,6 +229,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/skyao"
 
+  [[params.social]]
+    icon = "weibo"
+    icon_pack = "fa"
+    link = "//weibo.com/aoxiaojian"
+
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fa"
+    link = "//www.youtube.com/channel/UCKeIYzzIeOtVR1iSfAdRBqQ"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
