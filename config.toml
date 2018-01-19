@@ -10,7 +10,7 @@ title = "敖小剑的博客"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "skyao.io &copy; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -164,13 +164,13 @@ defaultContentLanguageInSubdir = false
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
   publication_types = [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    '未分组',  # 0
+    '会议记录',  # 1
+    '期刊文章',  # 2
+    '手稿',  # 3
+    '技术报告',  # 4
+    '书籍',  # 5
+    '书籍摘抄'  # 6
   ]
 
   # Configuration of talk pages.

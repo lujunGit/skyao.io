@@ -5,7 +5,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 title = "文档翻译"
-subtitle = "官方文档中文版"
+subtitle = "doczh.cn"
 
 # Order that this section will appear in.
 weight = 63

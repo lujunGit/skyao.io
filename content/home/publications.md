@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20
 
 title = "最近发表"
-subtitle = "演讲/文章/分享/访谈"
+subtitle = "演讲/文章/分享"
 
 # Order that this section will appear in.
 weight = 20
