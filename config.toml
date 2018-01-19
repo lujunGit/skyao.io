@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "首页"
   url = "#about"
   weight = 1
 
