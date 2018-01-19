@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "Recent Publications"
-subtitle = ""
+title = "最近发表"
+subtitle = "演讲/文章/分享/访谈"
 
 # Order that this section will appear in.
 weight = 20

@@ -268,8 +268,8 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "教程练习"
-  url = "#teaching"
+  name = "学习笔记"
+  url = "#learning"
   weight = 5
 
 [[menu.main]]

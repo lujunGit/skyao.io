@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-title = "Dream Mesh：梦想中的Service Mesh"
+title = "Dream Mesh"
 
 # Order that this section will appear in.
 weight = 3
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fa fa-download"></i> Install Now'
 +++
 
-这些年检，纠结了很久的微服务框架问题，到现在终于想通了。Dream Mesh，我心中理想的Service Mesh。 :rocket:
+这些年间，心中纠结很久的微服务框架问题，终于想通了。Dream Mesh，我梦想的Service Mesh，大概就是这个样子 :rocket:
 <br>
 <small><a id="academic-release" href="https://github.com/dreamfly-io/dreammesh/releases">Latest release</a></small>
 <br><br>
