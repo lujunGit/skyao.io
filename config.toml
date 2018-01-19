@@ -270,9 +270,9 @@ defaultContentLanguageInSubdir = false
 
 # Taxonomies.
 [taxonomies]
-  tag = "标签"
-  category = "分类"
-  publication_type = "发表类型"
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
