@@ -43,14 +43,14 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Sky Ao"
+  name = "Sky Ao/敖小剑"
   role = "资深架构师"
 
   # Organizations/Affiliations.
@@ -244,12 +244,12 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "发表"
+  name = "演讲文章"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "博客"
+  name = "技术博客"
   url = "#posts"
   weight = 3
 
@@ -259,7 +259,7 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "教程"
+  name = "教程练习"
   url = "#teaching"
   weight = 5
 
