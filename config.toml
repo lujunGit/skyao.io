@@ -230,6 +230,11 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/skyao"
 
   [[params.social]]
+    icon = "git"
+    icon_pack = "fa"
+    link = "//www.gitbook.com/@skyao"
+
+  [[params.social]]
     icon = "weibo"
     icon_pack = "fa"
     link = "//weibo.com/aoxiaojian"
