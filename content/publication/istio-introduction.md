@@ -67,6 +67,9 @@ caption = "Istio"
 
 _ _ _
 
+
+![](/img/headers/istio-introduction-thumbnail.jpg)
+
 # 服务网格新生代-Istio
 
 大家晚上好，欢迎参与直播，我是今天的讲师，来自数人云的资深架构师，敖小剑。
