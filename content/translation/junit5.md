@@ -13,7 +13,7 @@ image_preview = "translations/junit5.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Java", "Junit", 测试", "单元测试"]
+tags = ["Java", "Junit", "测试", "单元测试"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://junit5.doczh.cn/"
