@@ -1,31 +1,25 @@
 +++
 # Date this page was created.
-date = "2018-01-19"
+date = "2018-01-21"
 
 # Project title.
-title = "Dream Mesh"
+title = "ETCD官方文档中文版"
 
 # Project summary to display on homepage.
-summary = "Dream Mesh，梦想中的Service Mesh."
+summary = "ETCD最新V3版本."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/dreammesh.jpg"
+image_preview = "translations/etcd.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["微服务", "服务网格", "DreamFly", "DreamMesh"]
+tags = ["Java", "ETCD"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://etcd.doczh.cn/"
 
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/dreammesh-wide.jpg"
-caption = "DreamFly.IO :smile:"
-
 +++
 
-Dream Mesh 项目

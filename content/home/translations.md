@@ -34,11 +34,15 @@ filter_default = 0
 
 [[filter]]
   name = "服务网格"
-  tag = ".service-mesh"
+  tag = ".服务网格"
 
 [[filter]]
   name = "Java"
-  tag = ".java"
+  tag = ".Java"
+
+[[filter]]
+  name = "测试"
+  tag = ".测试"
 
 +++
 

@@ -34,11 +34,11 @@ filter_default = 0
 
 [[filter]]
   name = "微服务"
-  tag = ".micro-service"
+  tag = ".微服务"
 
 [[filter]]
   name = "服务网格"
-  tag = ".service-mesh"
+  tag = ".服务网格"
 
 [[filter]]
   name = "基础类库"

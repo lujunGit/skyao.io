@@ -35,6 +35,8 @@ selected = true
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = []
 
+tags = ["服务网格", "Istio", "Linkerd", "Conduit", "Envoy"]
+
 # Links (optional).
 #url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"

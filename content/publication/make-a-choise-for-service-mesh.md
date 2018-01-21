@@ -35,6 +35,8 @@ selected = false
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = []
 
+tags = ["服务网格", "Istio", "Linkerd", "Conduit"]
+
 # Links (optional).
 url_pdf = "/files/pdf/make-a-choise-for-service-mesh.pdf"
 url_preprint = ""
