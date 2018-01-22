@@ -282,11 +282,6 @@ defaultContentLanguageInSubdir = false
   url = "#translations"
   weight = 6
 
-[[menu.main]]
-  name = "和我联系"
-  url = "#contact"
-  weight = 7
-
 # Taxonomies.
 [taxonomies]
   tag = "tags"

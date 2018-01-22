@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2017-10-15
+date = 2018-01-20
 
 title = "Dream Mesh"
 
@@ -25,10 +25,7 @@ weight = 3
 +++
 
 这些年间，心中纠结很久的微服务框架问题，终于想通了。Dream Mesh，我梦想的Service Mesh，大概就是这个样子 :rocket:
-<br>
-<small><a id="academic-release" href="https://github.com/dreamfly-io/dreammesh/releases">最新发布</a></small>
 <br><br>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=dreamfly-io&amp;repo=dreammesh&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=dreamfly-io&amp;repo=dreammesh&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>
+
 
 
