@@ -24,6 +24,7 @@ disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
+baiduAnalytics = "17048c9d4209e5d08a9ae5b0b4160808"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
