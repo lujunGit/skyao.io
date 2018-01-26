@@ -17,9 +17,18 @@ weight = 60
 
 当才能不足以撑不起雄心壮志时，就应该静下心好好学习。
 
-- [grpc](http://skyao.io/learning-grpc/)
-- [微服务](http://skyao.io/learning-microservice/)
-- [Etcd3](http://skyao.io/learning-etcd3/)
-- [proto3](http://skyao.io/learning-proto3/)
-- [Rust](http://skyao.io/learning-rust/)
+| [grpc][] | [微服务][] | [Etcd3][] | [Proto3] | [Nginx] |
+|--------|--------|--------|--------|--------|
+| [Pinpoint][] | [Gitbook][] | [Maven][] |    [Rust][]    |    [Golang][]    |
 
+
+[grpc]:http://skyao.io/learning-grpc/
+[微服务]:http://skyao.io/learning-microservice/
+[Etcd3]:http://skyao.io/learning-etcd3/
+[Proto3]:http://skyao.io/learning-proto3/
+[Nginx]:http://skyao.io/learning-nginx/
+[Pinpoint]:http://skyao.io/learning-pinpoint/
+[Gitbook]:http://skyao.io/learning-gitbook/
+[Maven]:http://skyao.io/learning-maven/
+[Rust]:http://skyao.io/learning-rust/
+[Golang]:http://skyao.io/learning-go/
