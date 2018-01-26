@@ -61,7 +61,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/service-mesh-next-generation-microservice.jpg"
+image = "headers/ppmoney-microservice.jpg"
 caption = ""
 
 +++
