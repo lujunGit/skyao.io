@@ -6,11 +6,12 @@ lastmod = 2018-02-06
 draft = false
 
 tags = ["杂谈"]
-summary = "自从两年前停止更新博客之后，一直以gitbook的方式写各种学习笔记。今天，重启博客网站。借此机会回顾一下过去十三年间的个人技术博客的历程。"
+summary = "今天重启个人博客，借此机会回顾一下过去十三年间的个人技术博客的历程。"
+abstract = "今天重启个人博客，借此机会回顾一下过去十三年间的个人技术博客的历程。"
 
 [header]
 image = "headers/getting-started.png"
-caption = ""
+caption = "重启博客网站"
 
 +++
 
