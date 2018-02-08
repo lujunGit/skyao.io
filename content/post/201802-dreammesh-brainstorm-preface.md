@@ -1,13 +1,13 @@
 +++
-title = "DreamMesh之头脑风暴第一篇：序言"
+title = "DreamMesh头脑风暴篇之序言"
 
 date = 2018-02-09
 lastmod = 2018-02-09
 draft = false
 
 tags = ["DreamMesh","服务网格"]
-summary = "DreamMesh头脑风暴之脑洞大开第0篇：序言。"
-abstract = "DreamMesh头脑风暴之脑洞大开第0篇：序言。"
+summary = "正视问题，寻找方案，开启DreamMesh头脑风暴。"
+abstract = "正视问题，寻找方案，开启DreamMesh头脑风暴。"
 
 [header]
 image = "headers/dreammesh-brainstorm-1.jpg"
