@@ -5,7 +5,7 @@ date = 2018-02-09
 lastmod = 2018-02-09
 draft = false
 
-tags = ["DreamMesh","服务网格"]
+tags = ["DreamMesh"]
 summary = "近期在Service Mesh如何落地上，有些想法和思路，真诚的邀请朋友们参与讨论，希望能引出更多更好的内容。"
 abstract = "近期在Service Mesh如何落地上，有些想法和思路，真诚的邀请朋友们参与讨论，希望能引出更多更好的内容。"
 
