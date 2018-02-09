@@ -16,16 +16,18 @@ image_preview = "projects/dreammesh.jpg"
 tags = ["微服务", "服务网格", "DreamFly", "DreamMesh"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://dreamfly.io/project/dreammesh/"
 
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/dreammesh-wide.jpg"
-caption = "DreamFly.IO :smile:"
-
 +++
 
-Dream Mesh 项目
+Dream Mesh，梦想的Service Mesh。
+
+项目筹备中，正在进行早期调研和讨论，稍后将以开源项目的方式进行。
+
+请点击本页面右上角的"技术博客"阅读Dream Mesh相关的博客内容。
+
+
+
