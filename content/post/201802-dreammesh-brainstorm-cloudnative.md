@@ -95,13 +95,13 @@ caption = ""
 
 **Conduit is a next-generation ultralight service mesh for Kubernetes.**
 
-私底下和William就此简单聊过，他给出来的回答很委婉也很实在：conduit总要从某个地方起步，k8s是目前最好选择。以后可以支持，但是肯定先k8s再说。考虑到Conduit和Buoyant公司的处境，尤其全公司才二十人上下的人数，我们不能要求太多。
+私底下和William就此简单聊过，他给出来的回答很委婉也很实在：conduit总要从某个地方起步，k8s是目前最好选择。以后可以支持，但是肯定先k8s再说。考虑到Conduit和Buoyant公司的处境，尤其全公司才二十，我们不能要求太多。
 
 可以明确的说，短期之内，起码2018年，Conduit官方不会有对k8s之外的支持。
 
 #### Istio
 
-Isito最早版本是只支持k8s的，后来陆续提供了对其他非k8s环境的支持，比如docker+condul/eureka的方案，还有计划中但是还没有完成的Cloud Fountry和Mesos集成。
+Isito最早版本是只支持k8s的，后来陆续提供了对其他非k8s环境的支持，比如Docker+Consul/Eureka的方案，还有计划中但是还没有完成的Cloud Fountry和Mesos集成。
 
 对于VM，istio有提供一个VM解决方案，具体看见官方文档：
 
@@ -126,4 +126,4 @@ Conduit和Istio（还有待最后确认）对容器/K8s/Cloud Native都有要求
 
 企业客户对微服务和容器，是打算先上容器/k8s再上微服务，还是希望可以直接在虚拟机/物理机上做微服务，后面再迁移到k8s？
 
-
+有兴趣的朋友，请联系我的微信，加入DreamMesh讨论群就此话题展开讨论。
