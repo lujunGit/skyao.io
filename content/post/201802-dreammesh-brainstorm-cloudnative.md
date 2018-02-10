@@ -93,7 +93,7 @@ caption = ""
 
 首先Conduit非常坚定执着的"Say No"了，官网非常清晰的表述：
 
-**Conduit is a next-generation ultralight service mesh for Kubernetes.** **
+**Conduit is a next-generation ultralight service mesh for Kubernetes.**
 
 私底下和William就此简单聊过，他给出来的回答很委婉也很实在：conduit总要从某个地方起步，k8s是目前最好选择。以后可以支持，但是肯定先k8s再说。考虑到Conduit和Buoyant公司的处境，尤其全公司才二十人上下的人数，我们不能要求太多。
 
