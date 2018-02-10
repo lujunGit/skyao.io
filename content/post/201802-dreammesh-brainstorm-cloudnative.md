@@ -33,7 +33,7 @@ caption = ""
 
 这就引出了下面这个问题：
 
-++如果没有Cloud Native基础，那还能不能用Service Mesh？++
+**如果没有Cloud Native基础，那还能不能用Service Mesh？**
 
 ## 发展路径
 
