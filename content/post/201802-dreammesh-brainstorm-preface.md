@@ -55,7 +55,7 @@ caption = "重型猎鹰发射升空"
 
 	即使一切都ready，对于一个有存量应用的系统而言，绝无可能在一夜之间就将所有应用都改为Service Mesh，然后一起上线。
 
-	必然会有一个中间过渡状态，一部分应用开始搬迁到Service Mesh，大部分还停留在原有体系。那么，如果在过渡阶段让Service Mesh内的服务和Service Mesh外的服务相互通讯？
+	必然会有一个中间过渡状态，一部分应用开始搬迁到Service Mesh，大部分还停留在原有体系。那么，如何在过渡阶段让Service Mesh内的服务和Service Mesh外的服务相互通讯？
 
 - 零侵入的代价
 
