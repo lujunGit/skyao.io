@@ -162,7 +162,7 @@ Conduit和Istio（还有待最后确认）对容器/K8s/Cloud Native都有要求
 
 	现在的问题是，istio比较强调cloud native，而这些企业用户基本都没有准备好cloud native。
 
-- Hu：呵呵，我觉得你的想法很好，不过可能有点超前。据我所知，即使在bat, service mesh也没有完全落地。第一步可能还是docker化和普及kubernetes。
+- Hu：呵呵，我觉得你的想法很好，不过可能有点超前。据我所知，即使在很多互联网大企业, service mesh也没有完全落地。第一步可能还是docker化和普及kubernetes。
 
 - 敖小剑：我刚才还在看如何在非k8s，非docker环境下跑istio。嗯，你的思路是先准备好路，再让istio这辆车上路？我的思路有点倾向于让service mesh这个车在没路的情况下也能跑起来。
 
