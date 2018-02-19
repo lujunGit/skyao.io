@@ -1,8 +1,8 @@
 +++
 title = "DreamMesh抛砖引玉(5)-网络通讯"
 
-date = 2018-02-18
-lastmod = 2018-02-18
+date = 2018-02-19
+lastmod = 2018-02-19
 draft = false
 
 tags = ["DreamMesh"]
@@ -67,7 +67,7 @@ TBD：需要更多调研。
 
 但是需要额外特别指出的是，在Service Mesh下，跨语言和跨平台是必须满足的基本需求。因此，任何语言和平台有关的序列化协议和远程调用方式都不适合，比如Java序列化，EJB之类。当然，目前主流的侵入式开发框架也基本都在遵循这个原则，只是Service Mesh下会做的更加的坚决。
 
-## 轻量级 VS 微服务下
+## 轻量级 VS 微服务
 
 按照Martin Fowler老爷子给出的微服务经典定义：
 
@@ -106,7 +106,7 @@ Service Mesh下的REST，才真的有了轻量级的感觉。采用REST开发，
 至此，在Service Mesh加持下，服务间网络通讯的解决方案可以选择的余地就大了：
 
 - 可以自由选择HTTP1.1/HTTP2
-- 可以自由选择文本格式或者二进制而是，JSON/xml/thrift/protocol buffer随意
+- 可以自由选择文本格式或者二进制格式，JSON/xml/thrift/protocol buffer随意
 - 可以自由选择REST/RPC
 - 可以自由选择相关的类库，不再需要各种集成
 
@@ -126,3 +126,10 @@ Service Mesh下的REST，才真的有了轻量级的感觉。采用REST开发，
 
 > TBD： 需要继续调研/讨论。
 
+## 后记
+
+有兴趣的朋友，请联系我的微信，加入DreamMesh内部讨论群。
+
+## 讨论和反馈
+
+稍后补充。
