@@ -103,6 +103,16 @@ TBD：需要更多调研。
 
 Service Mesh下的REST，才真的有了轻量级的感觉。采用REST开发，可以选择的类库和方式也就可以天马行空任意发挥了。对于RPC，由于不再需要在RPC中捆绑微服务框架的诸多功能，同样也是大为简化。
 
+#### Service Mesh协议支持
+
+对于HTTP1.1/HTTP2这样的有明确Header，格式通用的协议，Service Mesh都可以很轻松的提供支持。目前市面上主流的Servic Mesh实现都提供了对HTTP1.1的支持，而且基本也都提供HTTP2的支持。
+
+对于TCP协议的支持要稍微麻烦一些，但是只要格式清晰，有类似的Header/Payload结构，Service Mesh也还是有办法以类似的方式提供支持。麻烦只是在于需要为每个具体的TCP协议提供特定的扩展，无法像HTTP1.1/HTTP2可以通用。
+
+无论如何，**Payload只透传不处理是基本原则**。
+
+基于这个原则，序列化方式对Service Mesh来说就可以完全无关：无论是文本还是二进制，无论消息体结构如何，对Service Mesh而言都只是一段byte数组。
+
 至此，在Service Mesh加持下，服务间网络通讯的解决方案可以选择的余地就大了：
 
 - 可以自由选择HTTP1.1/HTTP2
