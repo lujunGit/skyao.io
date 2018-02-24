@@ -1,13 +1,13 @@
 +++
-title = "DreamMesh抛砖引玉(7)-绕不开的spring"
+title = "DreamMesh抛砖引玉(7)-绕不开的Spring"
 
 date = 2018-02-23
 lastmod = 2018-02-23
 draft = false
 
 tags = ["DreamMesh"]
-summary = "对于Java企业应用，spring是无论如何绕不开的。但是如何以正确的姿势在service mesh时代使用spring，需要自己探索。Spring Boot + Service Mesh是我所推崇的一对清爽搭配。"
-abstract = "对于Java企业应用，spring是无论如何绕不开的。但是如何以正确的姿势在service mesh时代使用spring，需要自己探索。Spring Boot + Service Mesh是我所推崇的一对清爽搭配。"
+summary = "对于Java企业应用，Spring是无论如何绕不开的。但是如何以正确的姿势在Service Mesh时代使用Spring，需要自己探索。Spring Boot + Service Mesh是我所推崇的一对清爽搭配。"
+abstract = "对于Java企业应用，Spring是无论如何绕不开的。但是如何以正确的姿势在Service Mesh时代使用Spring，需要自己探索。Spring Boot + Service Mesh是我所推崇的一对清爽搭配。"
 
 [header]
 image = "headers/dreammesh-brainstorm-7.jpg"
@@ -15,7 +15,7 @@ caption = ""
 
 +++
 
-对于Java企业应用，spring是无论如何绕不开的。然而目前我们没有看到spring社区对service mesh的任何回应。因此，如何以正确的姿势在service mesh时代使用spring，需要自己探索。
+对于Java企业应用，spring是无论如何绕不开的。然而目前我们没有看到Spring社区对Service Mesh的任何回应。因此，如何以正确的姿势在service mesh时代使用Spring，需要自己探索。
 
 ## 定位
 
@@ -23,9 +23,9 @@ Service Mesh的定位在于微服务，在于"**服务间通讯**"，在于管�
 
 而Spring是一个巨大的生态体系，模块众多，这些模块除了Spring Cloud作为微服务框架和Service Mesh关系特殊（这个我们将会在下一章中单独谈），其他模块和Service Mesh都不冲突，定位都是完全可以互补的：
 
-- Spring Context作为spring生态最早的模块和系统核心，定位于**依赖注入和Bean管理**，这是目前Java社区的事实标准。
+- Spring Context作为Spring生态最早的模块和系统核心，定位于**依赖注入和Bean管理**，这是目前Java社区的事实标准。
 - Spring Boot作为产品级别的"**微框架**"（注意不是微服务框架），过去几年间也可谓大获成功。
-- Spring MVC是目前主流的web和rest开发框架
+- Spring MVC是目前主流的web和Rest开发框架
 - Spring Data定于为数据访问
 - 其他模块都不一一列举
 
