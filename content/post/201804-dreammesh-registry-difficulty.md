@@ -1,13 +1,13 @@
 +++
-title = "DreamMesh抛砖引玉(10)-多集群"
+title = "DreamMesh服务注册(1)-多集群的难点"
 
-date = 2018-04-12
-lastmod = 2018-04-12
-draft = false
+date = 2018-04-14
+lastmod = 2018-04-14
+draft = true
 
 tags = ["DreamMesh"]
-summary = "如果有多集群/多机房的支持需求，该如何解决？这个问题和前面列出的service mesh体系和非service mesh的并存问题，可能叠加：如何在多集群/多机房要求下实现service mesh体系和非service mesh的并存。"
-abstract = "如果有多集群/多机房的支持需求，该如何解决？这个问题和前面列出的service mesh体系和非service mesh的并存问题，可能叠加：如何在多集群/多机房要求下实现service mesh体系和非service mesh的并存。"
+summary = "要调用服务，自然需要知道服务在哪里，这涉及到服务注册与服务发现。本集群内只需要知道目标服务实例的ip地址和端口即可，而要跨集群调用服务，事情要变的复杂的多。我们来罗列一下实现中的难点所在。"
+abstract = "要调用服务，自然需要知道服务在哪里，这涉及到服务注册与服务发现。本集群内只需要知道目标服务实例的ip地址和端口即可，而要跨集群调用服务，事情要变的复杂的多。我们来罗列一下实现中的难点所在。"
 
 [header]
 image = "headers/dreammesh-brainstorm-10.jpg"
