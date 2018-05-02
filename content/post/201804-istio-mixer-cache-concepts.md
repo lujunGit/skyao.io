@@ -112,14 +112,14 @@ envoy在收到CheckResponse时，就可以从referencedAttributes字段的值中
 
 - adapter是独立于envoy
 - envoy不应该知道有哪些adapter的存在
-- 更不应该知道这些apater使用了哪些属性
+- 更不应该知道这些adapter使用了哪些属性
 
 因此，在envoy试图计算key时，就面临两难的境地：
 
 1. envoy无法预计哪些属性是adapter需要的
 2. envoy也不能将所有的属性都作为key
 
-那下面怎么办，mixer cache是必须要加的？只能见招拆招了，思路倒是直白，容易理解：
+那怎么办，mixer cache可是必须要加的。只能见招拆招了，思路倒是直白，容易理解：
 
 1. 谁可以切确的知道哪些属性被adapter使用过？
 
@@ -133,6 +133,6 @@ envoy在收到CheckResponse时，就可以从referencedAttributes字段的值中
 
 ![](./images/referenced-attributes.jpg)
 
-## 下一节
+## 下一步
 
 在介绍完基本概念之后，我们将在下一篇文章中开始讲解mixer cache的工作原理，然后在更后面的章节中深入实现细节。
