@@ -272,15 +272,15 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "学习笔记"
-  url = "#learning"
-  weight = 5
-
-[[menu.main]]
-  name = "文档翻译"
-  url = "#translations"
-  weight = 6
+#[[menu.main]]
+#  name = "学习笔记"
+#  url = "#learning"
+#  weight = 5
+#
+#[[menu.main]]
+#  name = "文档翻译"
+#  url = "#translations"
+#  weight = 6
 
 # Taxonomies.
 [taxonomies]
