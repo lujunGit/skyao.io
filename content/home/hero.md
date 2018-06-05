@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/dreammesh-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "projects/dreammesh-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fa fa-download"></i> 了解详情'
 +++
 
-这些年间，心中纠结很久的微服务框架问题，终于想通了。Dream Mesh，我梦想的Service Mesh，大概就是这个样子 :rocket:
+这些年间，心中纠结很久的微服务解决方案，终于有了答案。Dream Mesh，我梦想的Service Mesh，大概就是这个样子 :rocket:
 <br><br>
 
 
