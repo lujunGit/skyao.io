@@ -1,8 +1,8 @@
 +++
 title = "Istio Mixer Cache工作原理与源码分析(3)－主流程"
 
-date = 2018-06-08
-lastmod = 2018-06-08
+date = 2018-06-07
+lastmod = 2018-06-07
 draft = false
 
 tags = ["Istio", "Mixer"]
@@ -79,7 +79,7 @@ using TransportCheckFunc = std::function<CancelFunc(
 using DoneFunc = std::function<void(const ::google::protobuf::util::Status&)>;
 ```
 
-总结说，Check()方法会通过TransportCheckFunc对mixer发起异步请求，在得到response之后，再调用DoneFunc。
+总结说，Check()方法会通过TransportCheckFunc对mixer发起请求，在得到response之后，再调用DoneFunc。
 
 在这个匿名的DoneFunc中，最关键的代码是：
 
