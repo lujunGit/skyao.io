@@ -28,7 +28,7 @@ abstract_short = "今天我们不谈技术，不谈架构，也不谈具体的�
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
